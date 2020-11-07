@@ -1,0 +1,7 @@
+{
+  "name": "restaurant_ordering_system",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
